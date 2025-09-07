@@ -1,2 +1,4 @@
-# ToDo-App
-A simple to-do list app with add, delete, and mark complete features.
+# To-Do App  
+A simple To-Do List app where users can add, mark complete, and delete tasks.  
+
+Tech: HTML, CSS, JavaScript  
